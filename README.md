@@ -12,6 +12,7 @@ The Process Flow
 
 
 APIs and Components used
+
 •	Firebase Authentication
 
 •	Firebase Realtime Database
